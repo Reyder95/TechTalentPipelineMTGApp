@@ -1,0 +1,2 @@
+export const GOT_RANDOM_CARD = 'GOT_RANDOM_CARD';
+export const GOT_SEARCHED_CARDS = 'GOT_SEARCHED_CARDS';
